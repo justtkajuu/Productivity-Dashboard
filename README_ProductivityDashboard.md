@@ -16,7 +16,7 @@ A beautifully designed **Productivity Dashboard Web App** built with **HTML, CSS
 ## 🛠️ Tech Stack
 
 - **HTML5 / CSS3**
-- **Vanilla JavaScript**
+- **JavaScript**
 - **GSAP** for animations
 - **Weather API** for live weather
 - **LocalStorage** for data persistence
@@ -24,20 +24,7 @@ A beautifully designed **Productivity Dashboard Web App** built with **HTML, CSS
 
 ## 🚀 Live Demo
 
-🔗 [Check it out on Netlify](https://myproductivitydashboard.netlify.app)
-
-## 📷 Screenshots
-
-*Add screenshots here to showcase each section (To-Do, Planner, Timer, etc.)*
-
-## 📁 Folder Structure
-
-```
-index.html
-style.css
-script.js
-/assets
-```
+🔗 [Check it out on Netlify](https://productivity-dashborad.netlify.app/)
 
 ## 🙌 Acknowledgements
 
